@@ -1,0 +1,6 @@
+/.cache
+/.nvim
+/.vs
+
+/build/**
+
